@@ -13,7 +13,7 @@
                   <span class="count bg-success"></span>
                 </div>
                 <div class="profile-name">
-                  <h5 class="mb-0 font-weight-normal">Chandu</h5>
+                  <h5 class="mb-0 font-weight-normal">Leela</h5>
                   <span>Gold Member</span>
                 </div>
               </div>
